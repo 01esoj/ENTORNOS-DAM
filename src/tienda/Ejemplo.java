@@ -8,6 +8,10 @@ public class Ejemplo {
 		int num1 = 19;
 		
 		System.out.println("El numero es "+num1);
+		
+		int num2 = 69;
+		
+		System.out.println("El segundo numero es "+num2);
 	}
 
 }
