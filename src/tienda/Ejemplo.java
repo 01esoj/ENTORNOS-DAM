@@ -3,8 +3,11 @@ package tienda;
 public class Ejemplo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		//declaro e incializo la variable
+		int num1 = 19;
+		
+		System.out.println("El numero es "+num1);
 	}
 
 }
